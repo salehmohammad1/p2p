@@ -2,6 +2,6 @@ Start server first
 
 python Server.py
 
-Now, start clietnt
+Now, start client
 
 python Client.py
